@@ -3,7 +3,7 @@
 ## O que é Produto Digital
 
 **[Produto Digital](/PRODUTO_DIGITAL.md)** é um  
-**[Conjunto de Serviços]** organizados para oferecer um  
+**[Conjunto de Serviços](/CONJUNTO_SERVICOS.MD)** organizados para oferecer um  
 **[Domínio de Negócio]** que entrega necessidades ajustadas por comportamento de  
 **[Modalidade de Comprador]** influenciando decisões sobre  
 **[Funcionalidades Mapeadas por Hipóteses]** do interesse de clientes e  
