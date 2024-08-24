@@ -3,20 +3,20 @@
 ## O que é Produto Digital
 
 **[Produto Digital](/PRODUTO_DIGITAL.md)** é um  
-**[Conjunto de Serviços](/CONJUNTO_SERVICOS.MD)** organizados para oferecer um  
+**[Conjunto de Serviços](/CONJUNTO_SERVICOS.md)** organizados para oferecer um  
 **[Domínio de Negócio]** que entrega necessidades ajustadas por comportamento de  
 **[Modalidade de Comprador]** influenciando decisões sobre  
 **[Funcionalidades Mapeadas por Hipóteses]** do interesse de clientes e  
 **[Validadas de Forma Frequente]** e direcionadas a  
 **[Clientes de Perfis Específicos (Personas)]** estabelecidos pela  
-**[Maturidade do mercado]** a ser atingida pela  
-**[Unidade de negócio da Empresa]** que pretende dominar a liderança a partir da  
+**[Maturidade do Mercado]** a ser atingida pela  
+**[Unidade de Negócio da Empresa]** que pretende dominar a liderança a partir da  
 **[Estratégia de Crescimento Exponencial]** sem a  
 **[Necessidade de Expansão de Funcionários]** com as  
 **[Tecnologias]** necessárias e construídas por um  
 **[Time Multidisciplinar]** com autoridade e proficiência em todas as  
 **[Capabilidades]** necessárias para promover  
-**[Releases confiáveis]** acompanhadas a partir de um  
+**[Releases Confiáveis]** acompanhadas a partir de um  
 **[Roadmap]** integrado, retroalimentado com a   
 **[Gestão]** por profissionais preparados para  
 **[Descobrir]** como equilibrar a estratégia da companhia com os interesses dos clientes e entregar de forma  
